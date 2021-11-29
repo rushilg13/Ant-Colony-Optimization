@@ -1,0 +1,16 @@
+==737== Memcheck, a memory error detector
+==737== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==737== Using Valgrind-3.15.0 and LibVEX; rerun with -h for copyright info
+==737== Command: ./progAnt_ser
+==737== Parent PID: 9
+==737== 
+==737== error calling PR_SET_PTRACER, vgdb might block
+==737== 
+==737== HEAP SUMMARY:
+==737==     in use at exit: 0 bytes in 0 blocks
+==737==   total heap usage: 248 allocs, 248 frees, 186,520 bytes allocated
+==737== 
+==737== All heap blocks were freed -- no leaks are possible
+==737== 
+==737== For lists of detected and suppressed errors, rerun with: -s
+==737== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
