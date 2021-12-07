@@ -2,4 +2,5 @@
 Ant Colony Optimization
 
 # Application run
-Use Flask
+pip install requirements.txt <br>
+py ap.py
